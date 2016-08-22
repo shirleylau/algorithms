@@ -1,8 +1,6 @@
 test1 = [[1, 2], 2]
 test2 = [[3, 2, 1], 4]
 test3 = [[3, 5, 2], 7]
-# test3 = [(-2, 1), (4, 5), (3, 6), (0, 2), (10, 13)]
-# test3 = [0, 3, 7, 7, 7, 0]
 
 def count_solutions(addends, total):
     solutions = 0
